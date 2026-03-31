@@ -34,11 +34,10 @@ body {
 }
 
 .absolute_image {
-  position: absolute;    /* The "Floating" element */
-  top: 120px;                /* Align to the top of the container */
-  left: 400px;               /* Align to the left of the container */
+  position: absolute;    
+  top: 120px;               
+  left: 400px;               
   
-  /* Sizing the image */
   width: 500px;
   height: auto;
 }
